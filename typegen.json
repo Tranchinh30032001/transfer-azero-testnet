@@ -1,0 +1,11 @@
+{
+  "outDir": "src/types",
+  "specVersions": "https://aleph-zero.archive.subsquid.io/graphql",
+  "events": [
+    "Balances.Transfer"
+  ],
+  "calls": [
+  ],
+  "storage": [
+  ]
+}
